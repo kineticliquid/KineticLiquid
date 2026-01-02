@@ -46,7 +46,7 @@ This SDK is infrastructure software:
 ## Architecture (Flow)
 
 <p align="center">
-  <img src="assets/architecture.png" alt="KineticLiquid architecture flow" width="100%" />
+  <img src="architecture.png" alt="KineticLiquid architecture flow" width="100%" />
 </p>
 
 ---
