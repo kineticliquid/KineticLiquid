@@ -1,6 +1,6 @@
-![KineticLiquid](assets/kineticliquid_logo.png)
+![KineticLiquid](https://ibb.co/fzXWCKGs)
 
-![KineticLiquid Background](assets/background.png)
+![KineticLiquid Background](https://ibb.co/fzJtP2gK)
 
 # KineticLiquid SDK
 
