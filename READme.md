@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/24412604/README.md)
 <p align="center">
-  <img src="assets/hero.png" alt="KineticLiquid — LIQUID. LOOPED. SCALABLE." width="100%" />
+  <img src="hero.png" alt="KineticLiquid — LIQUID. LOOPED. SCALABLE." width="100%" />
 </p>
 
 <h1 align="center">KineticLiquid SDK</h1>
